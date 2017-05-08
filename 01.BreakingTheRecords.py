@@ -1,5 +1,7 @@
 import sys
 
+# Breaking the Records
+
 def getRecord(s):
     # Complete this function
     highest_score = s[0]
