@@ -5,17 +5,12 @@ import sys
 
 def getMoneySpent(keyboards, drives, s):
     # Complete this function
-    print ("s = %s" %(s))
     max_money = -1
     for keyboard in keyboards:
-        # #print ("--------------------------------- keyboard %d" % keyboard )
-        # print ("---------------------------------")
         for drive in drives:
             price = keyboard + drive
-            #print ("drive = %d", drive)
             if price <= s:
                 max_money = max(max_money, price)
-   
     return max_money
                 
 
