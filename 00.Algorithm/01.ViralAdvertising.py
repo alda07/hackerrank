@@ -1,10 +1,10 @@
+#Viral Advertising
+
 
 #n = 3
-
 n = int(input().strip())
 m = 5
 i = 0
-
 
 likes = 0
 
