@@ -1,13 +1,8 @@
+# Repeated String
 import sys
 
-# aba
-# 10
-
-# 7
-
-
-s = "aba"
-n = 10
+s = input().strip()
+n = int(input().strip())
 
 counter_a_in_one  = 0
 counter_a   = 0
@@ -26,5 +21,4 @@ counter_a = counter_a_in_one * dog
 if dog_tail != 0 :
     counter_a += dog_tail_counter
 print (counter_a)
-
 
