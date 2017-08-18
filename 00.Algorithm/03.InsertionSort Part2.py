@@ -1,7 +1,7 @@
-# 6
-# 1 4 3 5 6 2
-# Sample Output
 
+# n = 6
+# array = [1,4,3,5,6,2]
+# output
 # 1 4 3 5 6 2 
 # 1 3 4 5 6 2 
 # 1 3 4 5 6 2 
@@ -20,8 +20,7 @@ def insertion_sort(A):
         A[i] = key
         print (" ".join(str(x) for x in array))
 
-
-n = 6
-array = [1,4,3,5,6,2]
+n = int(input().strip())
+array = [int(temp) for temp in input().strip().split(' ')]
 
 insertion_sort(array)
