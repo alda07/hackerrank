@@ -21,5 +21,7 @@ def swap_case(s):
             list_s[index] = str_item.lower()
     return ("").join(list_s)
 
-            
-
+# Other solution 
+# s = "hACKERrANK.COM PRESENTS pYTHONIST 2"
+# s = s.swapcase()
+# print (s)
