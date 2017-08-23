@@ -9,6 +9,7 @@ def capitalize(string):
 
 # output 
 # Hello World
-s = "hello world"
-print (capitalize(s))
+
+# s = "hello world"
+# print (capitalize(s))
 
