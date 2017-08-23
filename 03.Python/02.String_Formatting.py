@@ -1,5 +1,5 @@
 # input
-n = 17 
+#n = 17 
 
 #output
 # 1     1     1     1
@@ -20,13 +20,9 @@ n = 17
 #    16    20    10 10000
 #    17    21    11 10001     
 
-
 def print_formatted(number):
     w = len("{0:b}".format(number))
     for i in range(1,number + 1):
-        #print ("{0:{width}d} {0:{width}o} {0:{width}X} {0:{width}b}".format(i, width = w))
-
-
         print ("{0:{width}d} {0:{width}o} {0:{width}X} {0:{width}b}".format(i, width = w))
 
 n = 17
