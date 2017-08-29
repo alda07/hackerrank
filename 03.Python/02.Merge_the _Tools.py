@@ -1,6 +1,6 @@
 # Input 
-string = "AABCAAADA"
-k = 3
+# string = "AABCAAADA"
+# k = 3
 
 # Output
 # AB
@@ -20,7 +20,4 @@ def merge_the_tools(string, k):
         index += k
 
 
-
-
-
-merge_the_tools(string, k )
+# merge_the_tools(string, k )
