@@ -17,3 +17,4 @@ cosine_theta = (float)(BC) / (float)(AC)
 degree_theta = round(math.degrees(math.acos(cosine_theta)))
 print("%d°" % (degree_theta))
 
+
