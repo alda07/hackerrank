@@ -35,11 +35,15 @@ list_combinatioms = list(product(*all_members))
 
 for combination in list_combinatioms:
     n_combination = len(combination)
-    sum_combination = 0
-    for item in combination:
-        sum_combination += item ** 2
-    sum_combination = sum_combination % N
+
+    # Counting sum
+    #sum_combination = 0
+    # for item in combination:
+    #     sum_combination += item ** 2
+    # sum_combination = sum_combination % N
    
+    # counting sum with other way
+    sum_combination = sum([x**2 for x in combination]) % N
     max_fx = max(max_fx, sum_combination)
         
 print (max_fx)
