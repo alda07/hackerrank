@@ -21,7 +21,7 @@ class Complex(object):
         return (Complex(real, imaginary))
 
     def __truediv__(self, no):
-        real = (no.real * self.real - no.imaginary * self.imaginary) / (no.real ** 2 + no.imaginary ** 2)
+        real = (no.real * self.real + no.imaginary * self.imaginary) / (no.real ** 2 + no.imaginary ** 2)
         imaginary = (no.real * self.imaginary -  no.imaginary * self.real ) / (no.real ** 2 + no.imaginary ** 2)
         return (Complex(real, imaginary))
 
