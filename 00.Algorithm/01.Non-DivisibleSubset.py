@@ -5,8 +5,13 @@ a = list(map(int, input().split()))
 
 L = [0]*k
 
+print(L)
+
 for x in a: 
     L[x % k] += 1
+
+print(L)
+
 res = 0
 for i in range(k//2+1):
     if i == 0 or k == i*2:
