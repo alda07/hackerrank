@@ -15,20 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="JavaLoops2.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/JavaLoops2.java">
+      <file leaf-file-name="JavaDatatypes.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaDatatypes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JavaLoops1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaLoops1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="142">
+              <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -51,12 +42,13 @@
         <option value="$PROJECT_DIR$/src/JavaStdinStdout2.java" />
         <option value="$PROJECT_DIR$/src/JavaLoops1.java" />
         <option value="$PROJECT_DIR$/src/JavaLoops2.java" />
+        <option value="$PROJECT_DIR$/src/JavaDatatypes.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="34" />
-    <option name="y" value="294" />
+    <option name="x" value="24" />
+    <option name="y" value="172" />
     <option name="width" value="1314" />
     <option name="height" value="746" />
   </component>
@@ -99,7 +91,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JavaStdinStdout2">
+  <component name="RunManager" selected="Application.JavaDatatypes">
+    <configuration name="JavaDatatypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaDatatypes" />
+      <module name="JPlaying" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
     <configuration name="JavaIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaIfElse" />
       <module name="JPlaying" />
@@ -160,9 +157,11 @@
       <item itemvalue="Application.WelcometoJava" />
       <item itemvalue="Application.JavaIfElse" />
       <item itemvalue="Application.JavaStdinStdout2" />
+      <item itemvalue="Application.JavaDatatypes" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaDatatypes" />
         <item itemvalue="Application.JavaStdinStdout2" />
         <item itemvalue="Application.JavaIfElse" />
         <item itemvalue="Application.WelcometoJava" />
@@ -183,12 +182,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="34" y="294" width="1314" height="746" extended-state="0" />
+    <frame x="24" y="172" width="1314" height="746" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.32886904" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
@@ -247,6 +246,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaLoops2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaLoops1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -254,10 +260,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaLoops2.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaDatatypes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        <state relative-caret-position="142">
+          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="28" />
         </state>
       </provider>
     </entry>
