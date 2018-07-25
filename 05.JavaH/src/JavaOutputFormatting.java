@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class JavaOutputFormatting {
 
+    // look https://gpcoder.com/2352-huong-dan-su-dung-string-format-trong-java/
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("================================");

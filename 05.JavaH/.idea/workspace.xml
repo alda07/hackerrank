@@ -14,17 +14,7 @@
     <SUITE FILE_PATH="coverage/JPlaying$JavaStdinStdout2.ic" NAME="JavaStdinStdout2 Coverage Results" MODIFIED="1532408305908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="JavaOutputFormatting.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/JavaOutputFormatting.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -57,10 +47,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="115" />
-    <option name="y" value="217" />
+    <option name="x" value="12" />
+    <option name="y" value="265" />
     <option name="width" value="1268" />
-    <option name="height" value="503" />
+    <option name="height" value="640" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -199,8 +189,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="5" y="394" width="1268" height="503" extended-state="0" />
-    <editor active="true" />
+    <frame x="115" y="217" width="1268" height="503" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -210,7 +199,7 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50078124" side_tool="true" weight="0.36552748" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49921876" visible="true" weight="0.25874126" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49921876" weight="0.25874126" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
@@ -413,8 +402,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaOutputFormatting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        <state relative-caret-position="136">
+          <caret line="12" column="63" lean-forward="true" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
         </state>
       </provider>
     </entry>
