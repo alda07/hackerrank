@@ -11,31 +11,29 @@ public class JavaDateandTime {
 
         Calendar cal = Calendar.getInstance();
         cal.set(Calendar.DAY_OF_MONTH, iDay);
+        // with java 7 month begin with 0 not 1
+        // interesting right?
         cal.set(Calendar.MONTH, iMonth - 1);
         cal.set(Calendar.YEAR, iYear);
 
         int dayOfWeek = cal.get(Calendar.DAY_OF_WEEK);
-        System.out.println(dayOfWeek);
-        if (dayOfWeek == Calendar.SUNDAY) {
-            return "SUNDAY";
-        }
-        else if (dayOfWeek == Calendar.MONDAY) {
-            return "MONDAY";
-        }
-        else if (dayOfWeek == Calendar.TUESDAY) {
-            return "TUESDAY";
-        }
-        else if (dayOfWeek == Calendar.WEDNESDAY) {
-            return "WEDNESDAY";
-        }
-        else if (dayOfWeek == Calendar.THURSDAY) {
-            return "THURSDAY";
-        }
-        else if (dayOfWeek == Calendar.FRIDAY) {
-            return "FRIDAY";
-        }
-        else {
-            return "SATURDAY";
+        switch (dayOfWeek) {
+            case 1:
+                return "SUNDAY";
+            case 2:
+                return "MONDAY";
+            case 3:
+                return "TUESDAY";
+            case 4:
+                return "WEDNESDAY";
+            case 5:
+                return "THURSDAY";
+            case 6:
+                return "FRIDAY";
+            case 7:
+                return "SATURDAY";
+            default:
+                return "";
         }
     }
 
