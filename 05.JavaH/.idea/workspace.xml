@@ -15,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="JavaIterator.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/JavaIterator.java">
+      <file leaf-file-name="JavaOutputFormatting.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaOutputFormatting.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="25" selection-start-column="25" selection-end-column="25" />
+            <state relative-caret-position="91">
+              <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -51,14 +51,16 @@
         <option value="$PROJECT_DIR$/src/JavaMethodOverriding.java" />
         <option value="$PROJECT_DIR$/src/JavaMethodOverriding2.java" />
         <option value="$PROJECT_DIR$/src/JavaInstanceofKeyword.java" />
+        <option value="$PROJECT_DIR$/src/JavaIterator.java" />
+        <option value="$PROJECT_DIR$/src/JavaOutputFormatting.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="457" />
-    <option name="y" value="23" />
-    <option name="width" value="823" />
-    <option name="height" value="747" />
+    <option name="x" value="115" />
+    <option name="y" value="217" />
+    <option name="width" value="1268" />
+    <option name="height" value="503" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -99,7 +101,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JavaIterator">
+  <component name="RunManager" selected="Application.JavaOutputFormatting">
     <configuration name="JavaDateandTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaDateandTime" />
       <module name="JPlaying" />
@@ -120,8 +122,8 @@
       <module name="JPlaying" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="JavaStaticInitializerBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStaticInitializerBlock" />
+    <configuration name="JavaOutputFormatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaOutputFormatting" />
       <module name="JPlaying" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -167,19 +169,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.JavaStaticInitializerBlock" />
       <item itemvalue="Application.JavaDateandTime" />
       <item itemvalue="Application.JavaMethodOverriding" />
       <item itemvalue="Application.JavaMethodOverriding2" />
       <item itemvalue="Application.JavaIterator" />
+      <item itemvalue="Application.JavaOutputFormatting" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaOutputFormatting" />
         <item itemvalue="Application.JavaIterator" />
         <item itemvalue="Application.JavaMethodOverriding2" />
         <item itemvalue="Application.JavaMethodOverriding" />
         <item itemvalue="Application.JavaDateandTime" />
-        <item itemvalue="Application.JavaStaticInitializerBlock" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +199,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="457" y="23" width="823" height="747" extended-state="0" />
+    <frame x="5" y="394" width="1268" height="503" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -208,12 +210,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50078124" side_tool="true" weight="0.36552748" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49921876" visible="true" weight="0.16493313" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49921876" visible="true" weight="0.25874126" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29769138" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.29769138" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -400,8 +402,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaIterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        <state relative-caret-position="180">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#313#347#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaOutputFormatting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
         </state>
       </provider>
     </entry>
